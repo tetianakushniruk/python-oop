@@ -1,0 +1,16 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Event1",
+        "date": "01.01.2021",
+        "number_of_tickets": 1,
+        "price": 125
+    },
+    "2": {
+        "id": 2,
+        "name": "Event2",
+        "date": "01.02.2021",
+        "number_of_tickets": 124,
+        "price": 1453
+    }
+}
