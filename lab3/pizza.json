@@ -1,0 +1,90 @@
+{
+    "Monday": {
+        "name": "Pepperoni",
+        "price": 125,
+        "ingredients": [
+            "pizza sauce",
+            "mozzarella",
+            "pepperoni"
+        ]
+    },
+    "Tuesday": {
+        "name": "Supreme",
+        "price": 126,
+        "ingredients": [
+            "pizza sauce",
+            "mozzarella",
+            "bacon",
+            "onion",
+            "beef mince",
+            "capsicum",
+            "pepperoni",
+            "mushroom",
+            "olives"
+        ]
+    },
+    "Wednesday": {
+        "name": "Hawaiian",
+        "price": 127,
+        "ingredients": [
+            "pizza sauce",
+            "mozzarella",
+            "ham",
+            "pineapple"
+        ]
+    },
+    "Thursday": {
+        "name": "BBQ",
+        "price": 128,
+        "ingredients": [
+            "BBQ sauce",
+            "mozzarella",
+            "pepperoni",
+            "bacon",
+            "cabanossi",
+            "beef mince",
+            "ham"
+        ]
+    },
+    "Friday": {
+        "name": "Sausage & Kale",
+        "price": 129,
+        "ingredients": [
+            "pizza sauce",
+            "mozzarella",
+            "sausage",
+            "kale"
+        ]
+    },
+    "Saturday": {
+        "name": "BBQ chicken",
+        "price": 130,
+        "ingredients": [
+            "BBQ sauce",
+            "shredded chicken",
+            "red onion",
+            "smoked paprika"
+        ]
+    },
+    "Sunday": {
+        "name": "Seafood pizza",
+        "price": 131,
+        "ingredients": [
+            "precooked squid",
+            "mussels",
+            "clams",
+            "prawns"
+        ]
+    },
+    "Custom": {
+        "name": "Custom pizza",
+        "price": 150,
+        "ingredients": [
+            "zucchini",
+            "artichoke",
+            "asparagus",
+            "spinach",
+            "pesto"
+        ]
+    }
+}
