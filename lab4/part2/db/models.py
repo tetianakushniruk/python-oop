@@ -17,6 +17,15 @@ teacher_course = Table(
 
 
 class TeacherTable(Base):
+    """Class to represent table Teacher
+
+    Attributes
+    ----------
+    name: str
+        name of teacher
+    surname: str
+        surname of teacher
+    """
     __tablename__ = "teacher"
     teacher_id = Column(Integer, primary_key=True)
     name = Column(String)
@@ -29,6 +38,23 @@ class TeacherTable(Base):
 
 
 class CourseTable(Base):
+    """Class to represent table Teacher
+
+    Attributes
+    ----------
+    course_name: str
+        name of the course
+    teacher_id: int
+        teacher of the course
+    course_program: string
+        course topics separated by commas
+    type: str
+        type of the course
+    lab_number: int
+        laboratory number
+    place: str
+        place where the course is held
+    """
     __tablename__ = "course"
     course_id = Column(Integer, primary_key=True)
     course_name = Column(String)
